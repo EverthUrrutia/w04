@@ -49,18 +49,3 @@ root (project root folder)
 
 +-- setup.py (Setup file for pip install -e support)
 
-```
-
-## Required Technologies
----
-* Python 3.8.0
-* Raylib Python CFFI 4.0.0.5
-
-## Authors
----
-* # Aaron Gusa -
-* # Eugene Kartey - kar21016@byui.edu
-* # Sheyla Norton - nor21005@byui.edu
-* # Owamamwen Ogunniyi - ogunniyiowamamwen@gmail.com
-* # Andre Pedrosa - 
-```
